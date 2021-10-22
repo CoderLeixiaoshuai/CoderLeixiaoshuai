@@ -12,7 +12,7 @@
 
 **快乐学习**
 
-- 抖音直接搜：程序员雷小帅
+- B站小破站：[程序员雷小帅](https://space.bilibili.com/1997769079)
 - 微信视频号: [程序员雷小帅](https://cdn.jsdelivr.net/gh/CoderLeixiaoshuai/assets/202102/456-2021-05-01-01-24-17.jpg)
 
 欢迎关注这个有趣的程序员~
