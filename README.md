@@ -9,9 +9,6 @@
 **分享技术干货**
 
 - 技术公众号：[爱笑的架构师](https://github.com/CoderLeixiaoshuai/java-eight-part#boy-%E5%85%B3%E4%BA%8E%E6%88%91)
-
-**快乐学习**
-
 - B站小破站：[程序员雷小帅](https://space.bilibili.com/1997769079)
 - 微信视频号: [程序员雷小帅](https://cdn.jsdelivr.net/gh/CoderLeixiaoshuai/assets/202102/456-2021-05-01-01-24-17.jpg)
 
